@@ -17,7 +17,7 @@ function Intro({ theme }) {
     damping: 20,
     restDelta: 0.001,
   });
-  const bgColor = theme === "dark" ? "#f5f5f5" : "#611bb8";
+  const bgColor = theme === "dark" ? "#d6d3d1" : "#082f49";
   return (
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
       <motion.div

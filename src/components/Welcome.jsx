@@ -19,7 +19,7 @@ const Welcome = () => {
   }, [text]);
 
   return (
-    <p className="text-base mb-4 font-medium pt-2 md:text-4xl">
+    <p className="text-base mb-4 font-medium pt-2 md:text-4xl ">
       {displayText}
     </p>
   );
