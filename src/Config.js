@@ -11,12 +11,6 @@ export const Config = {
     },
     portfolio: [
         {
-          title: "Ecommerce Website using React.js",
-          imgUrl:
-            "https://www.searchenginejournal.com/wp-content/uploads/2020/03/20-free-things-you-need-to-do-after-launching-your-ecommerce-website-5e664bcb60da5.png",
-          link: "https://joyful-alfajores-8fa0c0.netlify.app",
-        },
-        {
           title:
             "Upgrading Your React Game: Transitioning from React 16 to React 18",
           imgUrl:
