@@ -2,7 +2,7 @@ export const Config = {
     name: 'Hari Haran',
     fullName: 'Hari Haran',
     role: 'Frontend Developer',
-    desc: `Hello there! My name is Hari, Passionate about crafting captivating user experiences, I bring creativity and attention to detail to every project. With a strong foundation in frontend technologies such as HTML, CSS, JavaScript, TypeScript, and React, I specialize in transforming design concepts into elegant websites and web applications. Constantly striving to stay updated with the latest trends and best practices in web development.`,
+    desc: `Hello there! I am Hari, Passionate about crafting captivating user experiences, I bring creativity and attention to detail to every project. With a strong foundation in frontend technologies such as HTML, CSS, JavaScript, TypeScript, and React, I specialize in transforming design concepts into elegant websites and web applications. Constantly striving to stay updated with the latest trends and best practices in web development.`,
     pageHeader: 'Welcome to my Portfolio !',
     resume: 'https://drive.google.com/file/d/1rZwWEoPuNBLxpnpIelLQCk11H7f2oSt-/view?usp=drive_link',
     social: {
