@@ -4,6 +4,7 @@ export const Config = {
     role: 'Frontend Developer',
     desc: `Hello there! My name is Hari, Passionate about crafting captivating user experiences, I bring creativity and attention to detail to every project. With a strong foundation in frontend technologies such as HTML, CSS, JavaScript, TypeScript, and React, I specialize in transforming design concepts into elegant websites and web applications. Constantly striving to stay updated with the latest trends and best practices in web development.`,
     pageHeader: 'Welcome to my Portfolio !',
+    resume: 'https://drive.google.com/file/d/1rZwWEoPuNBLxpnpIelLQCk11H7f2oSt-/view?usp=drive_link',
     social: {
         linkedIn: 'https://www.linkedin.com/in/hari--haran/',
         git: 'https://github.com/hariharan-20',
@@ -12,10 +13,17 @@ export const Config = {
     portfolio: [
         {
           title:
-            "Upgrading Your React Game: Transitioning from React 16 to React 18",
+            "Streamlining Authentication: Implementing Single Sign-On (SSO) in React",
           imgUrl:
-            "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*RFKwkh-PGqtpDBnY1Pv65A.png",
-          link: "https://medium.com/@hari_haran_/upgrading-your-react-game-transitioning-from-react-16-to-react-18-73ac8198f6f6",
+            "https://miro.medium.com/v2/resize:fit:720/format:webp/1*5Vlo93Jg3zywLGZ2DEaVyg.png",
+          link: "https://medium.com/@hari_haran_/streamlining-authentication-implementing-single-sign-on-sso-in-react-67e977ff3a67",
+        },
+        {
+          title:
+            "Real-time Data with WebSockets and React",
+          imgUrl:
+            "https://miro.medium.com/v2/resize:fit:720/format:webp/1*3lKIsvFTKc2AB6RZkNZM4w.png",
+          link: "https://medium.com/@hari_haran_/real-time-data-with-websockets-and-react-f8d023adefc1",
         },
         {
           title: "Unleashing the Power of TypeScript: A Comprehensive Guide",
